@@ -3,8 +3,9 @@
 
 > Screenshot :
 
-![aw3-1](https://cloud.githubusercontent.com/assets/22127632/18802948/55332428-8216-11e6-98f6-de8ee5e88b7a.JPG)
-![aw3-2](https://cloud.githubusercontent.com/assets/22127632/18802947/5532093a-8216-11e6-8831-f8caf6c6a9f6.JPG)
+![aw1-1](https://cloud.githubusercontent.com/assets/22127632/18803728/01c818dc-821d-11e6-9205-58352f173c65.JPG)
+![aw1-2](https://cloud.githubusercontent.com/assets/22127632/18803729/01cb405c-821d-11e6-824d-bf09e2cea055.JPG)
+![aw1-3](https://cloud.githubusercontent.com/assets/22127632/18803730/01cd5d10-821d-11e6-8b33-2fc7c454a01d.JPG)
 
 > * *Identitas Siswa* 
     * Nama          : Nur Muhammad Khilyatul Akbar
